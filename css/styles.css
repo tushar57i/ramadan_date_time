@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.right{
+    float: right;
+}
+.bg-head{
+    background: #00838F;
+}
+footer{
+    background: #1C2331;
+    padding: 20px;
+    margin: 0 auto;
+}
+h6 a{
+	color: orange!important;
+}
+a:hover{
+    text-decoration: none!important;
+}
+h6 a:hover{
+	text-decoration: none!important;
+	color: lime!important;
+}
